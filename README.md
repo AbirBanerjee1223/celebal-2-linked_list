@@ -25,8 +25,8 @@ A comprehensive implementation of a singly linked list data structure using Obje
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/singly-linked-list-python.git
-   cd singly-linked-list-python
+   git clone https://github.com/AbirBanerjee1223/celebal-2-linked_list.git
+   cd celebal-2-linked_list
    ```
 
 2. **Requirements:**
