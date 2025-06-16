@@ -20,8 +20,6 @@ A comprehensive implementation of a singly linked list data structure using Obje
 - [Operations](#operations)
 - [Sample Output](#sample-output)
 - [Error Handling](#error-handling)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🛠️ Installation
 
